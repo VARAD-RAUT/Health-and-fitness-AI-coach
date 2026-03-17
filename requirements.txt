@@ -1,0 +1,11 @@
+streamlit
+openai
+azure-storage-blob
+azure-communication-email
+reportlab
+fpdf2
+plotly
+pandas
+Pillow
+python-dotenv
+requests
